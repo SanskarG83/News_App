@@ -1,4 +1,4 @@
-# csi_news_app
+# News_App
 
 A new Flutter project.
 
